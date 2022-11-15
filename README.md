@@ -19,4 +19,4 @@
 
 ## Github Page
 
-Here is a link to the [github page](https://ehma90.github.io/menu-slider-modal/) 
+Here is a link to the [github page](https://ehma90.github.io/Relaxer-App/) 
